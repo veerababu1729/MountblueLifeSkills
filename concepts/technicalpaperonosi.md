@@ -36,3 +36,8 @@ At the bottom of the stack, the Physical Layer deals with the actual physical tr
 ## How It All Works Together
 
 Each layer communicates with the layers directly above and below it. When you send data, it travels down through all seven layers, with each layer adding its own information (headers) to help the corresponding layer on the receiving end do its job. When data is received, it travels back up through the layers, with each layer stripping off its header and processing the data before passing it upward. This systematic approach makes troubleshooting easier and allows different technologies and protocols to work together seamlessly.
+
+## References
+
+- Article - https://www.cloudflare.com/learning/ddos/glossary/open-systems-interconnection-model-osi/
+- Video - https://www.youtube.com/watch?v=vv4y_uOneC0
