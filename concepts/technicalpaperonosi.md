@@ -1,6 +1,6 @@
 # OSI Layer Model
 
-The OSI (Open Systems Interconnection) model is a conceptual framework that standardizes how different systems communicate over a network. It breaks down network communication into seven distinct layers, each with its own specific responsibilities. Think of it like a relay race where data passes through each layer, with every layer adding its own special touch to ensure everything arrives at its destination correctly.
+The OSI (Open Systems Interconnection) model is a conceptual framework that standardizes how different systems communicate over a network. It breaks down network communication into seven distinct layers, each with its own specific responsibilities.
 
 ## The Seven Layers
 <img width="5667" height="2834" alt="image" src="https://github.com/user-attachments/assets/3cf51d65-4cab-487f-b30c-ea71a2cfff2a" />
