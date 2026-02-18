@@ -4,11 +4,10 @@
 
 1. Put your phone away and focus on the speaker.
 2. Don't interrupt — let them finish first.
-3. Nod and maintain eye contact to show you're listening.
+3. Maintain eye contact to show you're listening.
 4. Don't assume what they'll say — hear them out fully.
 5. Ask questions if something is unclear.
 6. Repeat back what you heard to confirm you understood correctly.
-7. Don't let your emotions filter what you're hearing.
 
 ---
 
