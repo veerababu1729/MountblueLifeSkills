@@ -28,4 +28,4 @@
 ## Learning Principles in the Bootcamp
 
 ### Question 5: What are some of the actions you can take going forward to improve your learning process?
-**Answer**: I turn off phone notifications and block social media during study time. I use Pomodoro: 25 minutes hard focus, short break. I explain concepts aloud like to a kid. I test myself often with flashcards. I mix focus and chill walks to think loose.
+**Answer**: I turn off phone notifications and block social media during study time. I use Pomodoro: 25 minutes hard focus, short break. I explain concepts aloud like to a kid. I test myself.
